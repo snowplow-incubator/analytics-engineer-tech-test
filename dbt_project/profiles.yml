@@ -1,0 +1,12 @@
+tech_test:
+  outputs:
+    dev:
+      dbname: tech_test
+      host: localhost
+      pass: password
+      port: 5432
+      schema: snowplow
+      threads: 1
+      type: postgres
+      user: admin
+  target: dev

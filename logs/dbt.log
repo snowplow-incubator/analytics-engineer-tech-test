@@ -1,0 +1,29 @@
+[0m14:52:36.573872 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x107be5c10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1123065b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x112322070>]}
+
+
+============================== 14:52:36.579219 | 2487938a-3b19-4ba8-a4c9-c7ace2758fc1 ==============================
+[0m14:52:36.579219 [info ] [MainThread]: Running with dbt=1.7.2
+[0m14:52:36.579798 [debug] [MainThread]: running dbt with arguments {'introspect': 'True', 'debug': 'False', 'printer_width': '80', 'log_path': 'logs', 'use_experimental_parser': 'False', 'fail_fast': 'False', 'profiles_dir': '/Users/ryanhill/.dbt', 'version_check': 'True', 'use_colors': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'invocation_command': 'dbt init', 'partial_parse': 'True', 'no_print': 'None', 'log_format': 'default', 'warn_error': 'None', 'indirect_selection': 'eager', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'log_cache_events': 'False', 'write_json': 'True', 'static_parser': 'True', 'cache_selected_only': 'False'}
+[0m14:53:38.624584 [debug] [MainThread]: Starter project path: /Users/ryanhill/.pyenv/versions/3.9.13/lib/python3.9/site-packages/dbt/include/starter_project
+[0m14:53:38.680175 [info ] [MainThread]: 
+Your new dbt project "tech_test" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m14:53:38.680813 [info ] [MainThread]: Setting up your profile.
+[0m14:54:58.249860 [info ] [MainThread]: Profile tech_test written to /Users/ryanhill/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m14:54:58.399027 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 141.96266, "process_user_time": 2.53034, "process_kernel_time": 0.971898, "process_mem_max_rss": "108838912", "process_in_blocks": "0", "process_out_blocks": "0"}
+[0m14:54:58.400121 [debug] [MainThread]: Command `dbt init` succeeded at 14:54:58.399856 after 141.96 seconds
+[0m14:54:58.401397 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x107be5c10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1124335b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1122f27c0>]}
+[0m14:54:58.403200 [debug] [MainThread]: Flushing usage events

@@ -38,7 +38,7 @@ You can validate that you have found the correct solution by using the `check_so
 ## dbt Exercise
 The database within the postgres image contains a schema called `nycflights`, which is based on the [nycflights13](https://cran.r-project.org/web/packages/nycflights13/nycflights13.pdf) dataset from R. There may be some differences in column names or types, and there may be some additional or missing columns compared to the original data.
 
-We have provided you with an empty dbt project, with the profile already configure, in the `dbt_project` folder. You are tasked with building a project that will enable people to more easily produce reporting and insights from the data. Consider things such as making it easy to make reports without having to do any joins from your tables, good project structure, and documentation.
+We have provided you with an empty dbt project, with the profile already configured, in the `dbt_project` folder. You are tasked with building a project that will enable people to more easily produce reporting and insights from the data. Consider things such as making it easy to make reports without having to do any joins from your tables, good project structure, and documentation.
 
 1. Add the 5 tables as sources within the project
 2. Create suitable models that will help with the following topics:

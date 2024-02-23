@@ -47,6 +47,7 @@ We have provided you with an empty dbt project, with the profile already configu
    3. The usage of plane stock for each month of 2013
 3. Discuss how you might change these models to make them incremental assuming new data was added to table each day. (You do not need to make these changes to the models, just discuss the impact and things you will need to consider.)
 
+
 ## Python Exercise
 We are looking for a well-commented python script that completes the following steps.
 

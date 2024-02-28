@@ -37,7 +37,7 @@ The goal is to end up with as few queries as possible, by taking advantage of va
 
 ![](./mystery_erd.jpg)
 
-You can validate that you have found the correct solution by using the `check_soltuion` function in the `murder_mystery` schema.
+You can validate that you have found the correct solution by using the `check_solution` function in the `murder_mystery` schema.
 
 ## dbt Exercise
 The database within the postgres image contains a schema called `nycflights`, which is based on the [nycflights13](https://cran.r-project.org/web/packages/nycflights13/nycflights13.pdf) dataset from R. There may be some differences in column names or types, and there may be some additional or missing columns compared to the original data.

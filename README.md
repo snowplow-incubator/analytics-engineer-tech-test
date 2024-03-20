@@ -6,7 +6,7 @@ In all the exercises we are not looking for a perfect solution, but how you appr
 
 Please submit your solutions in a format appropriate for each task, make sure to include comments in any code and feel free to provide any other context or additional materials that will help us understand your work. If you have any questions please reach out.
 
-To submit your work, please submit it in a github repository and share the link in response to the email you recieved asking you to complete this. If it is a private respository please ensure to share it with @rlh1994 and @agnessnowplow .
+To submit your work, please submit it in a github repository and share the link in response to the email you recieved asking you to complete this. Please ensure to share it with @rlh1994 and @agnessnowplow .
 
 Please do not fork this repo publically. If you wish to fork the repo, do so privately. 
 

@@ -1,14 +1,14 @@
 # Snowplow Analytics Engineering Technical Test
 
-Please complete 2 of the following 3 exercises, depending on your preference and experience. Both the SQL and dbt exercises make use of the same Docker image. If you don't have Docker installed, please check their [getting started](https://www.docker.com/get-started/) docs. Each exercise is expected to take you around 30-60 minutes, depending on your experience.
+Please complete all 3 exercises (SQL, dbt, Python). Both the SQL and dbt exercises make use of the same Docker image. If you don't have Docker installed, please check their [getting started](https://www.docker.com/get-started/) docs. Each exercise is expected to take you around 30-60 minutes, depending on your experience.
 
 In all the exercises we are not looking for a perfect solution, but how you approach the challenges and work through solving any issues while working with data. Even if you are unable to fully complete the task(s), please submit what you have done so far. 
 
 Please submit your solutions in a format appropriate for each task, make sure to include comments in any code and feel free to provide any other context or additional materials that will help us understand your work. If you have any questions please reach out.
 
-To submit your work, please submit it in a github repository and share the link in response to the email you recieved asking you to complete this. Please ensure to share it with @rlh1994 and @agnessnowplow .
+To submit your work, please submit it in a github repository and share the link in response to the email you recieved asking you to complete this. Please ensure to share it with @agnessnowplow.
 
-Please do not fork this repo publically. If you wish to fork the repo, do so privately. 
+Please do not fork this repo publicly. If you wish to fork the repo, do so privately. 
 
 ## Docker Image Setup and Usage
 To get started, please ensure you have [docker](https://docs.docker.com/) installed on your machine, docker desktop is also recommended for easier management of containers.
